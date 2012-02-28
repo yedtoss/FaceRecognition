@@ -1,0 +1,14 @@
+A Bayesian Approach to Face Recognition
+
+
+
+Bayesian.py contains BayesRecognition class
+
+Dataset.py contains utility to load the Yale Extended Face Dataset
+
+
+Librairies used:  numpy,sklearn and PIL
+
+
+More information http://yedtoss.wordpress.com/projects/face-recognition/37-2/
+
